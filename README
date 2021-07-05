@@ -1,0 +1,3 @@
+Compile with - clang list.c hash_table.clang
+To debug - clang -g list.c hash_table.clang
+            lldp a.out
